@@ -1,0 +1,2 @@
+# nuxt_sql_test
+NuxtJsとTypeScriptを使ったSQL勉強アプリ
